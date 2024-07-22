@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SGA_Study\\Teaching-4613\\First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FAD431-F126-4B07-B137-1D4F7D8C3BF3}|First.vcxproj|C:\\Users\\User\\Desktop\\SGA_Study\\Teaching-4613\\First\\calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62FAD431-F126-4B07-B137-1D4F7D8C3BF3}|First.vcxproj|solutionrelative:calc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FAD431-F126-4B07-B137-1D4F7D8C3BF3}|First.vcxproj|C:\\Users\\User\\Desktop\\SGA_Study\\Teaching-4613\\First\\value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62FAD431-F126-4B07-B137-1D4F7D8C3BF3}|First.vcxproj|solutionrelative:value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calc.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SGA_Study\\Teaching-4613\\First\\calc.cpp",
+              "RelativeDocumentMoniker": "calc.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SGA_Study\\Teaching-4613\\First\\calc.cpp",
+              "RelativeToolTip": "calc.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T12:40:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "value.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SGA_Study\\Teaching-4613\\First\\value.cpp",
+              "RelativeDocumentMoniker": "value.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SGA_Study\\Teaching-4613\\First\\value.cpp",
+              "RelativeToolTip": "value.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T11:19:02.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
